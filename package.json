@@ -1,0 +1,19 @@
+{
+  "name": "studbudd",
+  "version": "1.0.0",
+  "description": "done",
+  "main": "git add .",
+  "scripts": {
+    "test": "git commit -m \"added public folder\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git push"
+  },
+  "keywords": [
+    "public"
+  ],
+  "author": "james",
+  "license": "UNLICENSED"
+}
